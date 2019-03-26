@@ -45,3 +45,4 @@ pod 'Firebase/MLVisionFaceModel'
 
 - [motlabs/iOS-Proejcts-with-ML-Models](https://github.com/motlabs/iOS-Proejcts-with-ML-Models)<br>
   : The challenge using machine learning model created from tensorflow on iOS
+- [ML Kit - Face detection docs for iOS](https://firebase.google.com/docs/ml-kit/ios/detect-faces)
